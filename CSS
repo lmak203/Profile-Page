@@ -1,0 +1,80 @@
+.nav-bar {
+  height: 40px;
+  width: 100%;
+  padding-top: 7px;
+}
+
+.nav-but {
+  color: #FFFFFF;
+  font-size: 16px;
+}
+
+.nav-home {
+  color: #FFFFFF;
+  
+}
+
+hr.small {
+  max-width: 100px;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+.list-unstyled {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+.list-inline {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+.mute-text {
+  color: rgb(120,120,120);
+}
+
+.banner {
+  display: table;
+  position: relative;
+  background: url(http://i.imgur.com/HNwdKest.jpg) no-repeat center center scroll;
+  background-size: cover;
+  height: 643px;
+  width: 100%;
+  padding-top: 235px;
+}
+
+.banner h1 {
+  font-size: 4em;
+}
+
+.banner h3 {
+  font-size: 24px;
+}
+
+.about {
+  height: 200px;
+  width: 100%;
+  padding-top: 20px;
+}
+
+.img-prof {
+  border-radius: 50%;
+  float: middle;
+}
+
+.projects {
+  height: 500px;
+  width: 100%;
+}
+
+.proj-img {
+  height: 150px;
+  width: 210px;
+  display: inline-block;
+  float: none;
+}
